@@ -1,3 +1,8 @@
+# Description
+textutils is the word counter and make the word as paragraph using remove the extra spaces and uperCase word into loweCase word and also speake your word and copy your all text and
+count your words and paragraph length with total minutes in read
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
